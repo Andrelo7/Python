@@ -1,0 +1,5 @@
+Su forma base CHARMANDER a nivel 16 evoluciona a CHARMELEON a nivel 36 evoluciona a CHARICARD
+
+Su forma base CYNDAQUIL a nivel 16 evoluciona a QUILAVA a nivel 36 evoluciona a TYPHLOSION
+
+Su forma base CHIMCHAR a nivel 16 evoluciona a MONFERNO a nivel 36 evoluciona a INFERNAPE
